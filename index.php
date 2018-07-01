@@ -2,19 +2,19 @@
 <html>
 <head>
 	<title>activity#3</title>
-	Name: Mohammad Shadat A. Taib
+	Name: Mohammad Shadat A. Taib<br>
 	BSIT-4
-	<a href="sectionA.php"></a>
-	<a href="sectionB.php"></a>
-	<a href="sectionC.php"></a>
-	<a href="sectionD.php"></a>
-	<a href="sectionE.php"></a>
-	<a href="sectionF.php"></a>
-	<a href="sectionG.php"></a>
-	<a href="sectionH.php"></a>
-	<a href="sectionI.php"></a>
-</head>
+	</head>
 <body>
+<a href="sectionA.php">Section A</a>
+	<a href="sectionB.php">Section B</a>
+	<a href="sectionC.php">Section C</a>
+	<a href="sectionD.php">Section D</a>
+	<a href="sectionE.php">Section E</a>
+	<a href="sectionF.php">Section F</a>
+	<a href="sectionG.php">Section G</a>
+	<a href="sectionH.php">Section H</a>
+	<a href="sectionI.php">Section I</a>
 
 </body>
 </html>
